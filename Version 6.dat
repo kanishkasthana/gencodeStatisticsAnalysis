@@ -1,0 +1,49 @@
+biotype	genes	transcripts
+all IG_genes	309	312
+all other pseudogenes	11068	13308
+all RNA pseudogenes	1838	1838
+all RNA_genes	6558	6613
+ambiguous_orf	0	55
+antisense	0	36
+IG_C_gene	16	18
+IG_C_pseudogene	7	7
+IG_D_gene	30	30
+IG_J_gene	83	83
+IG_J_pseudogene	3	3
+IG_V_gene	180	181
+IG_V_pseudogene	151	151
+lincRNA	1351	1406
+miRNA	1756	1756
+miRNA_pseudogene	15	15
+misc_RNA	1187	1187
+misc_RNA_pseudogene	3	3
+Mt_rRNA	2	2
+Mt_tRNA	22	22
+Mt_tRNA_pseudogene	580	580
+ncrna_host	0	1
+non_coding	0	293
+nonsense_mediated_decay	0	7856
+polymorphic_pseudogene	18	27
+processed_pseudogene	0	7941
+processed_transcript	9431	36860
+protein_coding	20540	74251
+pseudogene	10870	2381
+retained_intron	0	15220
+retrotransposed	0	283
+rRNA	531	531
+rRNA_pseudogene	179	179
+scRNA_pseudogene	787	787
+snoRNA	1521	1521
+snoRNA_pseudogene	73	73
+snRNA	1944	1944
+snRNA_pseudogene	73	73
+TEC	0	26
+TR_C_gene	3	3
+TR_J_gene	13	13
+TR_V_gene	48	48
+TR_V_pseudogene	19	19
+transcribed_processed_pseudogene	0	144
+transcribed_unprocessed_pseudogene	0	284
+tRNA_pseudogene	128	128
+unitary_pseudogene	0	139
+unprocessed_pseudogene	0	1929
